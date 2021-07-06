@@ -1,0 +1,54 @@
+{
+  "pokemons": [
+    {
+      "nombre": "Pikachu",
+      "evolucion": "Raichu",
+      "id": 1
+    },
+    {
+      "nombre": "Golbat",
+      "evolucion": "Crobat",
+      "id": 2
+    },
+    {
+      "nombre": "Poliwhirl",
+      "evolucion": "Poliwrath",
+      "id": 3
+    },
+    {
+      "nombre": "Vaporeon",
+      "evolucion": "Jolteeon",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Onix",
+      "evolucion": "Steelix"
+    },
+    {
+      "nombre": "Scyther",
+      "evolucion": "Scizor",
+      "id": 6
+    },
+    {
+      "nombre": "Elekid",
+      "evolucion": "Electabuzz",
+      "id": 7
+    },
+    {
+      "nombre": "Magby",
+      "evolucion": "Magmar",
+      "id": 7
+    },
+    {
+      "nombre": "Hitmonlee",
+      "evolucion": "Hitmochan",
+      "id": 7
+    },
+    {
+      "nombre": "Seadra",
+      "evolucion": "Kingdra",
+      "id": 7
+    }
+  ]
+}

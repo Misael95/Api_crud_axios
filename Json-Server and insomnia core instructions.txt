@@ -1,0 +1,9 @@
+Json-Server instructions for installation 
+https://github.com/typicode/json-server
+
+npm install -g json-server
+json-server -w -p 5555 assets/db.json 
+"The port can be the one you have available 3000 or 5000 or 5555"
+
+Insomnia core instructions for installation 
+https://insomnia.rest/download
