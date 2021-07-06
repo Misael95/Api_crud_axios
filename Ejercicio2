@@ -1,0 +1,19 @@
+Ejercicio #2: CRUD 
+
+Paso 1: Con el lenguaje de programación de tu elección, genera un CRUD que permita realizar las siguientes funciones
+
+* Crear un registro
+
+* Modificar un registro (Param: id , Body {})
+
+* Eliminar un registro (Param: id)
+
+* Obtener un registro (Param: id)
+
+* Obtener todos los registros
+
+Paso 2:
+
+Generar una pagina WEB, Aplicacion WEB, SPA con el framework o librería de tu preferencia:
+
+Generar una tabla ordenada para listar todos los registros y debe permitir editar la información así como poder borrarla.
