@@ -21,9 +21,7 @@
       "id": 4
     },
     {
-      "id": 5,
-      "nombre": "Onix",
-      "evolucion": "Steelix"
+      "id": 5
     },
     {
       "nombre": "Scyther",
@@ -31,24 +29,25 @@
       "id": 6
     },
     {
-      "nombre": "Elekid",
-      "evolucion": "Electabuzz",
       "id": 7
     },
     {
-      "nombre": "Magby",
-      "evolucion": "Magmar",
-      "id": 7
+      "id": 8
     },
     {
       "nombre": "Hitmonlee",
       "evolucion": "Hitmochan",
-      "id": 7
+      "id": 9
     },
     {
       "nombre": "Seadra",
       "evolucion": "Kingdra",
-      "id": 7
+      "id": 10
+    },
+    {
+      "nombre": "Gloom",
+      "evolucion": "Vileplume",
+      "id": 11
     }
   ]
 }
